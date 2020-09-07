@@ -4,7 +4,7 @@ body {
 p span{
     text-transform: uppercase;
     font-weight: bold;
-    color: #0011ff;
+     color: #0011ff;
 }
 .wrap {
     max-width: 1024px;
