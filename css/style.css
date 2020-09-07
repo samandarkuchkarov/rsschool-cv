@@ -1,0 +1,28 @@
+body {
+    font-size: 16px;
+}
+p span{
+    text-transform: uppercase;
+    font-weight: bold;
+     color: #0011ff;
+}
+.wrap {
+     max-width: 1024px;
+    margin-left: 100px;
+}
+.name {
+    position: relative;
+    padding-bottom: 150px;
+}
+.avatar {
+    position: absolute;
+    margin: 0 auto;
+    max-width: 15%;
+}
+li {
+    list-style-type: none;
+}
+.code {
+    background-color: #aa50ff;
+    padding: 10px 0 10px 20px;
+}
