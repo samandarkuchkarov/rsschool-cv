@@ -13,7 +13,7 @@ Phone number: _**+998 99 893 9522**_
 : Git,  Github,  Html, Css, JavaScript, Webpack, Eslint, React.js, Node.js
 - _**Code examples:**_
 [Covid Dashboard](https://rolling-scopes-school.github.io/samandarkuchkarov-JS2020Q3/covid-dashboard/dist/),
-[Shelter with double page and responsive](https://github.com/otabekazamov/Limpon-vol.2),
+[Shelter with double page and responsive](https://samandarkuchkarov.github.io/shelter/shelter/pages/main/),
 [Website for learning english](https://rolling-scopes-school.github.io/samandarkuchkarov-JS2020Q3/English%20for%20kids/dist/),
 [Game puzzle](https://samandarkuchkarov.github.io/puzzle/puzzle/dist/),
 
